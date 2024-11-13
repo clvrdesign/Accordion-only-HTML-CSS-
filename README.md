@@ -23,4 +23,4 @@ To use this accordion component in your project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Accordion-only-HTML-CSS.git
+   [git clone https://github.com/yourusername/Accordion-only-HTML-CSS.git](https://github.com/clvrdesign/Accordion-only-HTML-CSS-.git)
